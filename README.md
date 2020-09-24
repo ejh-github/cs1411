@@ -1,2 +1,2 @@
-# CS1411
+# cs1411
 Fall 2019 Programming Principles I
